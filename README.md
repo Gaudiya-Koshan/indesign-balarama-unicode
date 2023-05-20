@@ -14,7 +14,7 @@ into unicode compliant characters
 
 ## Installation
 
->The easiest way to install this script into Indesign is:
+The easiest way to install this script into Indesign is:
 
 - Within ```Indesign```, open the ```Scripts Panel```: ``` Window->Utilities->Scripts```
 - Right-click (Windows) or Control-click (macOS) the ```User``` folder and choose ```Reveal In Explorer``` (Windows) or ```Reveal In Finder``` (macOS).
