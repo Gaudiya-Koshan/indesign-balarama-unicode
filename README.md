@@ -16,7 +16,7 @@ into unicode compliant characters
 
 >The easiest way to install this script into Indesign is to, within the software, open the ```Scripts Panel``` then ```right-click``` (Windows) or Control-click (macOS) a script and choose ```Reveal In Explorer``` (Windows) or ```Reveal In Finder``` (macOS).
 
-Then just copy the ```BalaramaToUnicode.jsx``` file here into the folder and it will be available to use. If, for whatever reason, you want to manually find the folder, it should be buried within a network of visible and hidden (by default) folders:
+Then just download the **[BalaramaToUnicode.jsx](https://github.com/ekendra-nz/indesign-balarama-unicode/raw/main/BalaramaToUnicode.jsx)** file here into the folder and it will be available to use. If, for whatever reason, you want to manually find the folder, it should be buried within a network of visible and hidden (by default) folders:
 
  OS | Scripts Folder Location
 |--------------|:-----| 
@@ -35,5 +35,5 @@ Then just copy the ```BalaramaToUnicode.jsx``` file here into the folder and it 
 There is an example Indesign (2020) file included that just has all 31 Balarama font characters. You can download this file, open it in Indesign then test the script:
  
 
-[Balarama Example.indd](https://github.com/ekendra-nz/indesign-balarama-unicode/raw/main/Balarama%20Example.indd)
+**[Balarama Example.indd](https://github.com/ekendra-nz/indesign-balarama-unicode/raw/main/Balarama%20Example.indd)**
   
