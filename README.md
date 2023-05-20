@@ -39,7 +39,7 @@ If, for whatever reason, you want to manually find the location, it should be bu
 
 ## Test
 
-There is an example Indesign (2020) file included that just has all 31 Balarama font characters. You can download this file, open it in Indesign then test the script:
+There is an example Indesign (2020) file included that just has all 31 Balarama font characters. You can download this file (it's already in the .zip file), open it in Indesign then test the script:
  
 
 **[Balarama Example.indd](https://github.com/ekendra-nz/indesign-balarama-unicode/raw/main/Balarama%20Example.indd)**
