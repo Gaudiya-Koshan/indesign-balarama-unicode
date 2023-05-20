@@ -29,3 +29,12 @@ Then just copy the ```BalaramaToUnicode.jsx``` file here into the folder and it 
 - Open the Scripts Panel
 - Look in the ```User``` folder 
 - Double click ```BalaramaToUnicode``` (or ```right-click``` then ```Run Script```) 
+
+## Test
+
+There is an example Indesign (2020) file included that just has all 31 Balarama font characters. You can download this file, open it in Indesign then test the script:
+ 
+
+[Balarama Example.indd](/ekendra-nz/indesign-balarama-unicode/raw/main/Balarama%20Example.indd)
+ 
+ 
