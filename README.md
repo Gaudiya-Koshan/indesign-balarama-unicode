@@ -14,9 +14,16 @@ into unicode compliant characters
 
 ## Installation
 
->The easiest way to install this script into Indesign is to, within the software, open the ```Scripts Panel``` then ```right-click``` (Windows) or Control-click (macOS) a script and choose ```Reveal In Explorer``` (Windows) or ```Reveal In Finder``` (macOS).
+>The easiest way to install this script into Indesign is:
 
-Then just download the **[BalaramaToUnicode.jsx](https://github.com/ekendra-nz/indesign-balarama-unicode/raw/main/BalaramaToUnicode.jsx)** file here into the folder and it will be available to use. If, for whatever reason, you want to manually find the folder, it should be buried within a network of visible and hidden (by default) folders:
+- Within ```Indesign```, open the ```Scripts Panel```: ``` Window->Utilities->Scripts```
+- Right-click (Windows) or Control-click (macOS) the ```User``` folder and choose ```Reveal In Explorer``` (Windows) or ```Reveal In Finder``` (macOS).
+
+- Download the **[BalaramaToUnicode.zip](https://github.com/ekendra-nz/indesign-balarama-unicode/raw/main/BalaramaToUnicode.zip)** file
+- Unzip the file
+- Move ```BalaramaToUnicode.jsx``` into the ```Scripts Panel``` folder opened above  and it will be available to use
+
+If, for whatever reason, you want to manually find the location, it should be buried within a network of visible and hidden (by default) folders:
 
  OS | Scripts Folder Location
 |--------------|:-----| 
