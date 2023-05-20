@@ -1,4 +1,4 @@
-# Indesign Balarama Font Character to Unicode Conversion Script
+## Indesign Balarama Font Character to Unicode Conversion Script
 
 This Indesign script will convert Balarama font characters 
 
