@@ -21,7 +21,7 @@ https://youtu.be/wHjc6ZDtQLc
 
 [![Watch the video](https://img.youtube.com/vi/wHjc6ZDtQLc/hqdefault.jpg)](https://youtu.be/wHjc6ZDtQLc)
 
-I'll soon upload a video for how to select unicode compliant fonts for you project and replace your non-compliant fonts without much tedius work.
+I'll soon upload a video for how to select unicode compliant fonts for your project and replace your non-compliant fonts without much tedius work.
 
 ## Written Installation Instructions
 
