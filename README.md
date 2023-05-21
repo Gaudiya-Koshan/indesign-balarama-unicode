@@ -46,7 +46,7 @@ There is an example Indesign (2020) file included that just has all 31 Balarama 
 
 ## Video
 
-Here's a video for how to install and use the script here:
+Here's a video for how to install and use the script:
 
 https://youtu.be/wHjc6ZDtQLc
 
