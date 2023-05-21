@@ -1,5 +1,7 @@
 ## Indesign Balarama Font Character to Unicode Conversion Script
 
+Want to turn your ```Çré Çré``` into a ```Śrī Śrī``` ?
+
 This Indesign script will convert Balarama font characters 
 
 ```c 
