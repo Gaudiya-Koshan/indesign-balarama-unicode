@@ -13,6 +13,15 @@ into unicode compliant characters
 ```c 
 Ṣ ṣ Ā ā Ī ī Ś ś Ū ū Ḍ ḍ Ḥ ḥ Ḷ ḷ Ṁ ṁ Ṅ ṅ Ṇ ṇ Ṛ ṛ Ṝ ṝ Ṣ ṣ Ṭ ṭ ḹ
 ```
+## Videos
+
+Here's a video for how to install and use the script:
+
+https://youtu.be/wHjc6ZDtQLc
+
+[![Watch the video](https://img.youtube.com/vi/wHjc6ZDtQLc/hqdefault.jpg)](https://youtu.be/wHjc6ZDtQLc)
+
+I'll soon upload a video for how to select unicode compliant fonts for you project and replace your non-compliant fonts without much tedius work.
 
 ## Installation
 
@@ -46,10 +55,3 @@ There is an example Indesign (2020) file included that just has all 31 Balarama 
 
 **[Balarama Example.indd](https://github.com/ekendra-nz/indesign-balarama-unicode/raw/main/Balarama%20Example.indd)**
 
-## Video
-
-Here's a video for how to install and use the script:
-
-https://youtu.be/wHjc6ZDtQLc
-
-[![Watch the video](https://img.youtube.com/vi/wHjc6ZDtQLc/hqdefault.jpg)](https://youtu.be/wHjc6ZDtQLc)
