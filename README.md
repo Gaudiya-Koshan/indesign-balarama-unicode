@@ -55,3 +55,12 @@ There is an example Indesign (2020) file included that just has all 31 Balarama 
 
 **[Balarama Example.indd](https://github.com/ekendra-nz/indesign-balarama-unicode/raw/main/Balarama%20Example.indd)**
 
+## Shameless Plug
+
+Interested in Ekendra's musings on Śrīmad-Bhāgavatam, life and whatever he fancies? Sign up for free here:
+
+> [Suburban Mysticism](https://ekendra.substack.com/)
+
+Feel inspired and want to share some love? 
+
+> [Consider buying Ekendra a broccoli](https://www.buymeacoffee.com/ekendra)
