@@ -43,4 +43,11 @@ There is an example Indesign (2020) file included that just has all 31 Balarama 
  
 
 **[Balarama Example.indd](https://github.com/ekendra-nz/indesign-balarama-unicode/raw/main/Balarama%20Example.indd)**
-  
+
+## Video
+
+Here's a video for how to install and use the script here:
+
+https://youtu.be/wHjc6ZDtQLc
+
+[![Watch the video](https://img.youtube.com/vi/wHjc6ZDtQLc/hqdefault.jpg)](https://youtu.be/wHjc6ZDtQLc)
