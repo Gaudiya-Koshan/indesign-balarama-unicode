@@ -23,7 +23,7 @@ https://youtu.be/wHjc6ZDtQLc
 
 I'll soon upload a video for how to select unicode compliant fonts for you project and replace your non-compliant fonts without much tedius work.
 
-## Installation
+## Written Installation Instructions
 
 The easiest way to install this script into Indesign is:
 
