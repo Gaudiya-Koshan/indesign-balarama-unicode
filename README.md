@@ -19,9 +19,15 @@ Here's a video for how to install and use the script:
 
 https://youtu.be/wHjc6ZDtQLc
 
-[![Watch the video](https://img.youtube.com/vi/wHjc6ZDtQLc/hqdefault.jpg)](https://youtu.be/wHjc6ZDtQLc)
+[![Install script](https://img.youtube.com/vi/wHjc6ZDtQLc/hqdefault.jpg)](https://youtu.be/wHjc6ZDtQLc)
 
-I'll soon upload a video for how to select unicode compliant fonts for your project and replace your non-compliant fonts without much tedius work.
+Here's a video for how to select unicode compliant fonts for your Indesign project and replace your non-compliant fonts without too much tedius work.
+
+```You will still need to proofread the work!```
+
+https://youtu.be/04RFYIEe-Js
+
+[![Install script](https://img.youtube.com/vi/04RFYIEe-Js/hqdefault.jpg)](https://youtu.be/04RFYIEe-Js)
 
 ## Written Installation Instructions
 
