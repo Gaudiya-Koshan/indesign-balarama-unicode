@@ -1,6 +1,8 @@
 
 // object with unicode compliant characters
 var unicode = {
+	// 0: 'ḏ', // _d
+
 	1: 'ā', // _a
 	2: 'ī', // _i
 	3: 'ū', // _u
@@ -18,8 +20,9 @@ var unicode = {
 	15: 'ḷ', // .l
 	16: 'ḹ', // _.l
 
-	20: 'ḏ', // _d
 	21: 'ẏ', // .y
+
+	// 29: 'Ḏ', // _D
 
 	30: 'Ā', // _a
 	31: 'Ī', // _i
@@ -38,7 +41,6 @@ var unicode = {
 	44: 'Ḷ', // .l
 	45: 'Ḹ', // _.l
 
-	50: 'Ḏ', // _D
 	51: 'Ẏ', // .Y
 
 	60: 'ɱ', // \-/ (candrabindu)
@@ -53,6 +55,8 @@ var unicode = {
 
 // object with Balarama font characters
 var balarama = {
+	// 0: '.ò', // _d
+
 	1: 'ä', // _a
 	2: 'é', // _i
 	3: 'ü', // _u
@@ -70,8 +74,9 @@ var balarama = {
 	15: 'ÿ', // .l
 	16: 'û', // _.l
 
-	20: '.ò', // _d
 	21: 'ý', // .y
+
+	// 29: '.Ò', // _d
 
 	30: 'Ä', // _a
 	31: 'É', // _i
@@ -90,7 +95,6 @@ var balarama = {
 	44: 'ß', // .l
 	45: 'ß', // _.l
 
-	50: '.Ò', // _d
 	51: 'Ý', // .y
 
 	60: '~', // \-/ (candrabindu)
@@ -108,8 +112,21 @@ var balarama = {
 // loops through each key in the 'balarama' object above and replaces with corresponding 'unicode'
 for (var key in balarama) { 
 
+	var find = balarama[key];
+	var replace = unicode[key];
+
+	if (replace == 'ñ') { replace = 'NnT'}
+
     app.findGrepPreferences=app.changeGrepPreferences=null;
-    app.findGrepPreferences.findWhat=balarama[key];
-    app.changeGrepPreferences.changeTo=unicode[key];
+    app.findGrepPreferences.findWhat=find;
+    app.changeGrepPreferences.changeTo=replace;
     app.activeDocument.changeGrep();
+
+	if (key >= 67) {
+		app.findGrepPreferences=app.changeGrepPreferences=null;
+		app.findGrepPreferences.findWhat='NnT';
+		app.changeGrepPreferences.changeTo='ñ';
+		app.activeDocument.changeGrep();
+	}
 };
+ 
