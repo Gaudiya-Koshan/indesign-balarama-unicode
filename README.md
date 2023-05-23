@@ -13,7 +13,7 @@ into unicode compliant characters (+ caps)
 ```c 
 ā ī ū ṛ ṝ ṅ ñ ṭ ḍ ṇ ś ṣ ṃ ḥ ḷ ḹ ḻ ẏ
 ```
-
+There is also a ```BalaramaToUnicode-ñ.jsx``` script that will ignore existing latin ```ñ``` characters and not convert them into ```ṣ```.
 ## Videos
 
 Here's a video for how to install and use the script:
