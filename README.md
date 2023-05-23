@@ -2,16 +2,16 @@
 
 Want to turn your ```Çré Çré``` into a ```Śrī Śrī``` ?
 
-This Indesign script will convert Balarama font characters 
+This Indesign script will convert Balarama font characters (+ capital letters)
 
 ```c 
-Ï ï Ä ä É é Ç ç Ü ü Ò ò Ù ù ß ÿ À à Ì ì Ë ë Å å È è Ñ ñ Ö ö û 
+ä é ü å è ì ï ö ò ë ç ñ à ù ÿ û ḻ ý
 ```
 
-into unicode compliant characters
+into unicode compliant characters (+ caps)
 
 ```c 
-Ṣ ṣ Ā ā Ī ī Ś ś Ū ū Ḍ ḍ Ḥ ḥ Ḷ ḷ Ṁ ṁ Ṅ ṅ Ṇ ṇ Ṛ ṛ Ṝ ṝ Ṣ ṣ Ṭ ṭ ḹ
+ā ī ū ṛ ṝ ṅ ñ ṭ ḍ ṇ ś ṣ ṃ ḥ ḷ ḹ ḻ ẏ
 ```
 ## Videos
 
